@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/89hmdys/toast/crypto"
-	"github.com/89hmdys/toast/rsa"
+	"github.com/subinwalter/toast/crypto"
+	"github.com/subinwalter/toast/rsa"
 )
 
 func Test_LoadFromPEMFile(t *testing.T) {
